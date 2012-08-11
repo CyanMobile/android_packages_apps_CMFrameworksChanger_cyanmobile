@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CyanMobile Frameworks Changer</string>
+    <string name="reboot_title">Reboot required</string>
+    <string name="reboot_message">Your system must now be rebooted to load your new frameworks.</string>
+    <string name="reboot_ok">Reboot now</string>
+    <string name="reboot_cancel">Cancel</string>
+    <string name="dismiss">Dismiss</string>
+    <string name="need_root_message">Error copying files. Are you rooted?</string>
+    <string name="need_root_title">su command error</string>
+    <string name="reboot_failed_title">Reboot error</string>
+    <string name="reboot_failed_message">Could not reboot the system. Your system needs to be rebooted to load your new frameworks. Please do so as soon as possible.</string>
+    <string name="mkdir_failed_title">Error</string>
+    <string name="mkdir_failed_message">Could not create Frameworks directory on sdcard</string>
+    <string name="remount_failed_title">Error remounting</string>
+    <string name="remount_failed_message">Could not remount /system</string>
+    <string name="menu_apply">Apply Frameworks</string>
+    <string name="menu_backup">Backup Frameworks</string>
+    <string name="menu_restore">Restore Frameworks</string>
+    <string name="menu_reset">Reset paths</string>
+    <string name="select_fmw">Select a framework</string>
+    <string name="diag_backing_up">Backing up frameworks</string>
+    <string name="toast_backed_up">Apps backed up to /sdcard/SystemFramework</string>
+    <string name="diag_applying">Applying Frameworks</string>
+    <string name="toast_applied">Your frameworks have been applied</string>
+    <string name="diag_restoring">Restoring Frameworks</string>
+    <string name="toast_restored">Frameworks restored from SD card</string>
+    <string name="diag_copying">Copying frameworks</string>
+    <string name="diag_rebooting">Rebooting</string>
+    <string name="please_wait">CyanMobile Please wait...</string>
+    <string name="context_copy">Copy path</string>
+    <string name="context_paste">Paste path</string>
+    <string name="context_clear">Clear path</string>
+</resources>
